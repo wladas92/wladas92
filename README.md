@@ -1,8 +1,8 @@
 👋 Hi, I’m @wladas92
 
-Learning GIT commands...
+Learning GIT commands step by step... :clap:
 
-Step by step... :clap:
+Added ~/.bash_profile and some aliases...
 
 <!---
 - 👀 I’m interested in ...
