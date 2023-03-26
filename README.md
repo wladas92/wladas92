@@ -1,6 +1,7 @@
 👋 Hi, I’m @wladas92
 
 Learning GIT commands...
+Step by step... :clap:
 
 <!---
 - 👀 I’m interested in ...
